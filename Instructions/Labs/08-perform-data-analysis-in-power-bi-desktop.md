@@ -67,7 +67,7 @@ In this task, you'll create a live connection to the Power BI semantic model cre
 
 1. Create a new report.
 
-1. In the Home ribbon, select **Get Data > Power BI semantic models**.
+1. In the Home ribbon, select **OneLake data hub > Power BI semantic models**.
 
 1. In the **OneLake data hub** window, select the **Sales Analysis** semantic model in **My Workspace**, and then **Connect** or double-click to load the semantic model.
 
