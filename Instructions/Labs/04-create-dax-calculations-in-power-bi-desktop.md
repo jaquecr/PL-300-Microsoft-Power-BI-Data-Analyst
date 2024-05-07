@@ -201,7 +201,7 @@ In this task, you'll add more columns to enable filtering and grouping by differ
 
 	*By default, text values sort alphabetically, numbers sort from smallest to largest, and dates sort from earliest to latest.*
 
-1. To customize the **Month** field sort order, switch to Data view.
+1. To customize the **Month** field sort order, switch to Table view.
 
 1. Add the **MonthKey** column to the **Date** table.
 
@@ -217,7 +217,7 @@ In this task, you'll add more columns to enable filtering and grouping by differ
 
 	*This formula computes a numeric value for each year/month combination.*
 
-1. In Data view, verify that the new column contains numeric values (for example, 201707 for July 2017, etc.).
+1. In Table view, verify that the new column contains numeric values (for example, 201707 for July 2017, etc.).
 
 	![Picture 21](Linked_image_Files/05-create-dax-calculations-in-power-bi-desktop_image28.png)
 
