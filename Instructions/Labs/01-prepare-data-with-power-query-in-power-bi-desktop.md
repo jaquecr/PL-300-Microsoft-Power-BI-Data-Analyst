@@ -76,7 +76,7 @@ This task teaches you how to connect to a SQL Server database and import tables,
 
 1. Complete this task by selecting **Transform Data**, which will open Power Query Editor.
 
-You've now imported data into Power BI and have the Power Query Editor open for the next task.
+You've now connected to the data and have the Power Query Editor open for the next task.
 
 ## **Preview Data in Power Query Editor**
 
