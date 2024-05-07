@@ -31,15 +31,15 @@ This lab is designed to introduce you to Power BI Desktop application and how to
 
     ![Power BI Desktop icon](Linked_image_Files/02-load-data-with-power-query-in-power-bi-desktop_image1.png)
 
-    *Tip: By default, the Getting Started dialog box opens in front of Power BI Desktop. You can choose to sign-in, and then close the pop-up.*
-
-1. To open the starter Power BI Desktop file, select the **File > Open Report > Browse Reports**.
+1. To open the starter Power BI Desktop file, select the **Open > Browse this device**.
 
 1. In the **Open** window, navigate to the **D:\Allfiles\Labs\01-prepare-data-with-power-query-in-power-bi-desktop\Starter** folder.
 
 1. Select the **Sales Analysis** file.
 
-1. Save a copy of the file with **Save As** in to the **D:\Allfiles\MySolution** folder.
+    *Note: At this point, Power BI will ask you to sign in if you haven't already. You can either sign in or select **Cancel** and continue the lab.*
+
+1. Save a copy of the file with **File > Save As** in to the **D:\Allfiles\MySolution** folder.
 
 ## **Get data from SQL Server**
 
